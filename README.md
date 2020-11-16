@@ -9,6 +9,10 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020/2021 Goals: Contribute more to Open Source projects
 
+### I'm listening to:
+
+[![Spotify](https://novatorem-nine-zeta.vercel.app/api/spotify)](https://open.spotify.com/user/alhazmy13)
+
 
 ### 📫 How to reach me:
 
