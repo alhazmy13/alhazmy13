@@ -18,13 +18,6 @@
 
 
 
-<br />
-
-### 😄 GitHub Stats
-
-<img align="left" alt="alhazmy13's GitHub Stats" src="https://github-readme-stats.alhazmy13.vercel.app/api?username=alhazmy13&show_icons=true&count_private=true&hide_border=true" />
-
-
 </details>
 
 [website]: https://alhazmy13.com
