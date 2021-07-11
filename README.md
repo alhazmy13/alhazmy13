@@ -20,7 +20,7 @@
 
 </details>
 
-[website]: https://alhazmy13.com
+[website]: https://alhazmy13.net
 [twitter]: https://twitter.com/alhazmy13
 [youtube]: https://www.youtube.com/user/abdullahalhazmy
 [linkedin]: https://linkedin.com/in/alhazmy13
