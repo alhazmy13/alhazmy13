@@ -1,14 +1,4 @@
-### Hi there, I'm Abdullah Alhazmy [website] 👋
-
-[![Website](https://img.shields.io/website?label=alhazmy13.net&style=for-the-badge&url=https%3A%2F%2Falhazmy13.net)](https://alhazmy13.net)
-[![Twitter Follow](https://img.shields.io/twitter/follow/alhazmy13?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Falhazmy13&screen_name=alhazmy13)
-
-## I'm a Developer and Gamer!!
-
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute more to Open Source projects
-
-
+![Metrics](https://metrics.lecoq.io/alhazmy13?template=classic&languages=1&lines=1&habits=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=9&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=C&achievements.secrets=false&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FRiyadh)
 ### 📫 How to reach me:
 
 [<img align="left" alt="alhazmy13.net" width="22px" src="https://www.iconfinder.com/icons/2305615/download/svg/512" />][website]
