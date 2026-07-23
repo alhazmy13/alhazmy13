@@ -1,16 +1,33 @@
-![Metrics](/github-metrics.svg)
-### 📫 How to reach me:
+# Hi, I'm Abdullah 👋
 
-[<img align="left" alt="alhazmy13.net" width="22px" src="https://www.iconfinder.com/icons/2305615/download/svg/512" />][website]
-[<img align="left" alt="alhazmy13 | YouTube" width="22px" src="https://www.iconfinder.com/icons/5296521/download/svg/512" />][youtube]
-[<img align="left" alt="alhazmy13 | Twitter" width="22px" src="https://www.iconfinder.com/icons/317720/download/svg/512" />][twitter]
-[<img align="left" alt="alhazmy13 | LinkedIn" width="22px" src="https://www.iconfinder.com/icons/4102586/download/svg/512" />][linkedin]
+I'm a software engineer passionate about building reliable platforms,
+cloud-native applications, APIs, and developer tools.
+
+I enjoy solving complex engineering problems, contributing to open source,
+and designing systems that are scalable, maintainable, and easy to operate.
+
+## What I enjoy building
+
+- Cloud-native applications
+- Kubernetes & container platforms
+- APIs and system integration
+- Identity & authentication
+- Developer tools and automation
+- Observability & monitoring
+- Open-source libraries
 
 
+## Currently exploring
 
-</details>
+- Platform engineering
+- Distributed systems
+- AI-assisted software development
+- Kubernetes operators
+- DevSecOps
+- Software architecture
 
-[website]: https://alhazmy13.net
-[twitter]: https://twitter.com/alhazmy13
-[youtube]: https://www.youtube.com/user/abdullahalhazmy
-[linkedin]: https://linkedin.com/in/alhazmy13
+## Interests
+
+I enjoy building software across different domains—from mobile libraries and
+developer tools to infrastructure, home automation, monitoring, and cloud-native
+platforms. I believe great software should be simple, reliable, and reusable.
